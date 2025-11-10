@@ -1,10 +1,9 @@
 ### What Changed
-(Describe what this PR introduces)
+(Describe this PR)
 
 ### Why
-(Explain the motivation / issue link)
+(Link to issue / motivation)
 
 ### Checklist
-- [ ] Code builds successfully
-- [ ] Tests pass
-- [ ] Updated documentation (if applicable)
+- [ ] Builds successfully
+- [ ] Docs updated

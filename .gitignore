@@ -3,8 +3,7 @@
 *.tfstate.*
 .terraform/
 .terraform.lock.hcl
-crash.log
-override.tf
-override.tf.json
-*_override.tf
-*_override.tf.json
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
